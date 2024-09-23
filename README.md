@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Front-End Devloper React at Borås YHS
 - ⏭️ Next step is learning Back-End Devloper 
   
-  [![Header](https://github.com/Ghayth-Sabeaallil/Ghayth-Sabeaallil/blob/main/github-header-image.png)
+  [![Header](https://github.com/Ghayth-Sabeaallil/Ghayth-Sabeaallil/blob/main/github-header-image.png)]
 
 ### A little bit more about me 🧐
 ```javascript
