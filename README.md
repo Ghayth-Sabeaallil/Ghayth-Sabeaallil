@@ -1,8 +1,9 @@
-# 👋 Hi, I’m Ghayth Sabeaallil
-- 🌱 I’m currently learning Front-End Devloper React at Borås YHS
-- ⏭️ Next step is learning Back-End Devloper 
-  
   ![Header](https://github.com/Ghayth-Sabeaallil/Ghayth-Sabeaallil/blob/main/github-header-image.png)
+  <h1>I'm a JS/TS/Java programmer and FrontEnd - React developer </h1>
+ #  🌱 I’m currently learning Front-End Devloper React at Borås YHS<br>
+ #  🌱 Doing internship at Ludat AB <br>
+ #  ⏭️ Next step is learning Back-End Devloper <br>
+  
 
 ### A little bit more about me 🧐
 ```javascript
